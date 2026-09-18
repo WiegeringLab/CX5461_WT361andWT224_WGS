@@ -13,7 +13,7 @@ reference indexing, and BWA-MEM alignment with per-sample lane merging.
 
 ## Requirements
 
-| Item | Value |
+| Item | Version |
 |------|-------|
 | BWA-MEM | 0.7.17-r1188 |
 | SAMtools | (bundled in the container below) |
@@ -21,9 +21,7 @@ reference indexing, and BWA-MEM alignment with per-sample lane merging.
 | Reference | `/data/references/hg38_reference/hg38.fa` |
 
 All tools are invoked through the container, so no local installation of BWA or
-SAMtools is required beyond Apptainer itself. The container path is hard-coded in
-the scripts and needs to be adjusted for a different environment.
-
+SAMtools is required beyond Apptainer itself.
 ## Input layout
 
 Each sample lives in its own directory under `01.RawData/`, and each flowcell lane
