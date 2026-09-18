@@ -1,0 +1,12 @@
+# Pipeline outputs
+*.log
+*.sorted.bam
+*.sorted.bam.bai
+*.merged.bam
+*.merged.bam.bai
+logs/
+tmp/
+
+# Editor / OS
+.vscode/
+.DS_Store
