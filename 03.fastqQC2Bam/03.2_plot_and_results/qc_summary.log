@@ -1,0 +1,87 @@
+============================================
+  BAM QC Report — 2026-07-04 08:44:41
+============================================
+
+=== Ko361_CTR_10 ===
+  Total reads:    672673594
+  Mapped:         671687223 (99.85% : N/A)
+  Properly paired: 656641238 (98.02% : N/A)
+
+=== Ko361_CTR_11 ===
+  Total reads:    673413843
+  Mapped:         672236554 (99.83% : N/A)
+  Properly paired: 657499622 (98.03% : N/A)
+
+=== Ko361_CTR_12 ===
+  Total reads:    685512167
+  Mapped:         684443734 (99.84% : N/A)
+  Properly paired: 667519534 (97.79% : N/A)
+
+=== Ko361_CTR_9 ===
+  Total reads:    683145027
+  Mapped:         682029948 (99.84% : N/A)
+  Properly paired: 667406270 (98.10% : N/A)
+
+=== Ko361_CX_13 ===
+  Total reads:    648752636
+  Mapped:         647647449 (99.83% : N/A)
+  Properly paired: 632674320 (97.91% : N/A)
+
+=== Ko361_CX_14 ===
+  Total reads:    602890990
+  Mapped:         601668926 (99.80% : N/A)
+  Properly paired: 588064202 (97.96% : N/A)
+
+=== Ko361_CX_15 ===
+  Total reads:    753968862
+  Mapped:         752866604 (99.85% : N/A)
+  Properly paired: 738377560 (98.33% : N/A)
+
+=== Ko361_CX_16 ===
+  Total reads:    704139085
+  Mapped:         703077531 (99.85% : N/A)
+  Properly paired: 688762244 (98.19% : N/A)
+
+=== NG224_CTR_1 ===
+  Total reads:    683453177
+  Mapped:         682275066 (99.83% : N/A)
+  Properly paired: 666673492 (97.94% : N/A)
+
+=== NG224_CTR_2 ===
+  Total reads:    657149356
+  Mapped:         655868036 (99.81% : N/A)
+  Properly paired: 640090624 (97.83% : N/A)
+
+=== NG224_CTR_3 ===
+  Total reads:    711613689
+  Mapped:         710377046 (99.83% : N/A)
+  Properly paired: 694572106 (98.02% : N/A)
+
+=== NG224_CTR_4 ===
+  Total reads:    734933746
+  Mapped:         733623995 (99.82% : N/A)
+  Properly paired: 719038530 (98.24% : N/A)
+
+=== NG224_CX_5 ===
+  Total reads:    707885417
+  Mapped:         706681343 (99.83% : N/A)
+  Properly paired: 694019158 (98.42% : N/A)
+
+=== NG224_CX_6 ===
+  Total reads:    662943744
+  Mapped:         661786111 (99.83% : N/A)
+  Properly paired: 648251308 (98.18% : N/A)
+
+=== NG224_CX_7 ===
+  Total reads:    641776353
+  Mapped:         640600826 (99.82% : N/A)
+  Properly paired: 628754488 (98.37% : N/A)
+
+=== NG224_CX_8 ===
+  Total reads:    642645311
+  Mapped:         525559336 (81.78% : N/A)
+  Properly paired: 512507592 (80.02% : N/A)
+
+============================================
+  QC complete: 2026-07-04 09:45:53
+============================================
